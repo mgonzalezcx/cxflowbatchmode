@@ -1,0 +1,3 @@
+Checkmarx_Project,Checkmarx_Team,Jira_Project,Jira_Issue_Type,Assignee,Config,
+nodegoat,/CxServer/Company/GroupA,NODE,Bug,mgonzalez.emailer@gmail.com,./cxflow.yml
+
