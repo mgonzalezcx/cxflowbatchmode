@@ -1,3 +1,2 @@
-Checkmarx_Project,Checkmarx_Team,Bug_Tracker,Jira_Project,Jira_Issue_Type,Repo_Name,Branch,Namespace,Config,
-Demo-WebGoat-develop,/CxServer/Connect/Team1,GitHub,,,,,,./cxflow.yml
-LetsGo,/CxServer,Azure,,,LetsGo,master,MiguelGonzalez0411,./cxflow.yml
+Checkmarx_Project,Checkmarx_Team,Bug_Tracker,Jira_Instance,Jira_Project,Jira_Issue_Type,Repo_Name,Branch,Namespace,Config,
+nodegoat,/CxServer/Company/GroupA,Jira,cxmgl,NODE,Bug,,,,./cxflow.yml
